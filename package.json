@@ -8,6 +8,7 @@
   "author": "Daniel Lim of Profound Ideation Inc.",
   "license": "ISC",
   "devDependencies": {
+    "ts-loader": "^0.8.1",
     "typescript": "^1.8.9",
     "webpack": "^1.12.14"
   }
